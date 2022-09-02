@@ -1,4 +1,4 @@
-# Back-end-C-TCC
+# Front-end-C-TCC
 O trabalho de conclusão de curso consiste na criação de um site que deve conter um banco de dados, front-end e back-end, feitos a partir de sql server, HTML e C#, respectivamente.
 
-Esse repositório servirá para registrar o desenvolvimento do BACK-END com C#.
+Esse repositório servirá para registrar o desenvolvimento do FRONT END com HTML.
